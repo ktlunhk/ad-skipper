@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ad Skipper</string>
+    <string name="service_description">Clicks the Skip Ad button in the YouTube app and mutes media volume while an ad plays. Only reads the YouTube app screen.</string>
+</resources>
